@@ -1,6 +1,15 @@
 ## Description
 <!-- Provide a short description of the changes in this PR -->
 
+## Problem statement
+<!-- Describe in short what problem you are fixing -->
+
+## Trello ticket
+<!-- Link to trello ticket -->
+
+## Project proposal link
+<!-- Link to project proposal (if any) -->
+
 ## Type of Change
 - [ ] Bug fix
 - [ ] New feature
@@ -21,8 +30,8 @@
 ## Screenshots (if applicable)
 <!-- Add screenshots to showcase the changes -->
 
-## Related Issues
-<!-- Link to any related issues -->
-
 ## Additional Notes
 <!-- Any other relevant information -->
+
+
+** Place an x within the closed squared brackets to mark it.
